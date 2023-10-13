@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/nalubanr/Documents/CS550/Assignment5",
+      "program": "/Users/nalubanr/Documents/CS550/Assignment5/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
